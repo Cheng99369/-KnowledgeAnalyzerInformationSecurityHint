@@ -1,0 +1,203 @@
+﻿Test,Domain,Question,Problem
+1,1,1,"______________ are defined as the limits within which decisions must be made. They may be described by regulations, contracts, agreements, deals, warranties, certifications, or other legal obligations. These policies can influence the business analysis approach."
+1,1,2,The purpose of __________________ is to plan an approach for establishing and maintaining effective working relationships with the stakeholders.
+1,1,3,Business analysts analyze stakeholder attitudes about which of the following (select the one choice that does NOT apply):
+1,1,4,"When planning the governance approach, business analysts identify (select which one does NOT apply):"
+1,1,5,____________ is used to understand roles/responsibilities within the organization in an effort to define a governance approach that involves the right stakeholders. 
+1,1,6,______________ help stakeholders uncover their business analysis information management needs.
+1,1,7,"__________________ is used to define business analysis processes and understand how to improve those processes to reduce problems from hand-offs, improve cycle times, or alter how business analysis work is performed to support improvements in downstream processes."
+1,1,8,"Business Analysis Performance Assessment includes a comparison of __________________, identifying the root cause of variances from the expected performance, proposed approaches to address issues, and other findings to help understand the performance of business analysis processes."
+1,1,9,The plan traceability approach is based on which of the following (select the answer that does NOT apply):
+1,1,10,__________________ identifies the stakeholders who will have the responsibility and authority to make decisions about business analysis work including who will be responsible for setting priorities and who will approve changes to business analysis information.
+1,1,11,__________________ is used to find if past initiatives have identified valuable experiences with governance that can be leveraged on current or future initiatives. 
+1,1,12,"__________________ are a group or individual with a relationship to the change, the need, or the solution."
+1,2,13,____________ is the drawing forth or receiving of information from stakeholders or other sources 
+1,2,14,"_____________    Plan includes the planned elicitation activities and techniques, activity logistics (for example, date, time, location, resources, agenda), scope of the elicitation activity, and available sources of background information."
+1,2,15,________________ Approach describes the types of expected engagement with stakeholders and how they might need to be managed
+1,2,16,Business analysts monitor the participation and performance of stakeholders to ensure that: (select the one that does NOT apply)
+1,3,17,Maintenance of Requirements ensures that requirements and designs are accurate and current throughout the life cycle and facilitates requirements reuse where appropriate. 
+1,3,18,The __________________ knowledge area describes the tasks that business analysts perform in order to manage and maintain requirements and design information from inception to retirement.
+1,3,19,__________________ is used to identify data structure that may be similar across the enterprise in order to facilitate reuse.
+1,3,20,"Project Sponsors are responsible for ensuring clear communication of requirements, designs, and other business analysis information to the key stakeholders responsible for approving that information."
+1,3,21,Requirement Traceability enables which of the following: (select which answer does NOT apply)
+1,3,22,"When considering changes or additions to existing requirements, business analysts assess the impact of the proposed change by considering which of the following: (select which one does NOT apply)"
+1,3,23,"_____________ ___provides an understanding of the value proposition that the enterprise satisfies for its customers, the critical factors in delivering that value, and the resulting cost and revenue streams."
+1,4,24,"The ________________ knowledge area describes the business analysis work that must be performed to collaborate with stakeholders in order to identify a need of strategic or tactical importance (the business need), enable the enterprise to address that need, and align the resulting strategy for the change with higher- and lower-level strategies."
+1,4,25," _________ are longer term, ongoing, and qualitative statements of a state or condition that the organization is seeking to establish and maintain."
+1,4,26,Strategies may exist for which of the following: (select the answer that does NOT apply)
+1,4,27,Which of the following is NOT an accurate definition of the acronym SMART when referring to objectives:
+1,4,28,"Constraints describe aspects of the current state, aspects of the planned future state that may not be changed by the solution, or mandatory elements of the design."
+1,4,29,The Strategy Analysis knowledge area includes which of the following tasks: (select the answer that does NOT apply)
+1,4,30,"______________can be used to determine if the enterprise can meet its needs using its existing structure, resources, capabilities, and technology"
+1,5,31,The Requirements Analysis and Design Definition knowledge area includes which of the following tasks: (select the answer that does NOT apply)
+1,5,32,Requirements Analysis and Design Definition knowledge area comes in between what two activities?
+1,5,33,"Models may also be used to confirm knowledge, identify information gaps that the business analyst may have, and identify duplicate information."
+1,5,34,What are the two modelling formats: 
+1,5,35,Business analysts use a requirements architecture to:  (select the answer that does NOT apply)
+1,5,36,"______________ are alternative results that might have been achieved if the resources, time, and funds devoted to one design option had been allocated to another design option."
+1,6,37,"______________ describes tasks that analyze the actual value being delivered, identifies limitations which may be preventing value from being realized, and makes recommendations to increase the value of the solution. "
+1,6,38,The Solution Evaluation knowledge area includes which of the following tasks: (select the answer that does NOT applies)
+1,6,39,__________________ determine the value of a newly deployed or existing solution.
+1,6,40,The ________________ is performed to determine if an enterprise is able to adapt to or effectively use a solution.
+1,6,41,"When conducting an operational assessment, business analysts consider which of the following: (select the answer that does NOT apply)"
+1,7,42,"A __________ represents a small, concise statement of functionality or quality needed to deliver value to a specific stakeholder."
+1,7,43,_______________ are used to model the logic of usage scenarios by showing the information passed between objects in the system through the execution of the scenario. 
+1,7,44,A risk analysis 
+1,7,45, A use case 
+1,7,46,"__________ and ________________ are conducted to improve organizational operations, increase customer satisfaction, and increase value to stakeholders. "
+1,7,47,The balanced scorecard is used in financial modeling
+1,7,48,"____________ measure the performance of solutions, solution components, and other matters of interest to stakeholders. (select the answer that does NOT apply)"
+1,7,49,____________ formally assesses a problem and possible decisions in order to determine the value of alternate outcomes under conditions of uncertainty. 
+1,7,50,"____________ are used to define the requirements, outcomes, or conditions that must be met in order for a solution to be considered acceptable to key stakeholders "
+2,1,1,A probability distribution is a function that assigns a probability to each measurable subset of the possible outcomes. 
+2,1,2,Which of following distribution gives the probabilities of a single random variable taking on various alternative values 
+2,1,3,How many variables need to be given under univariate distribution
+2,1,4, __ is the process of concluding using data that are subject to random variation. 
+2,1,5,Which of the following is used to test hypotheses and make estimations using sample data? 
+2,1,6,Regression is a statistical process for estimating what type of variable 
+2,1,7, How many independent variables does the regression needs for estimating a target variable? 
+2,1,8, Inferential statistics use for 
+2,2,9, _ describes what has happened over a given time.
+2,2,10,Diagnostic analytics refers to  
+2,2,11,Which of the following type of analytics suggests a course of action? 
+2,2,12,Hadoop Distributed File System (HDFS) is a file system that distributes blocks of data redundantly across systems.
+2,2,13,"Diagnostic analytics focuses on __  something happened, involves more diverse data inputs and a bit of hypothesizing."
+2,2,14,What is HDFS stands for
+2,2,15,Which of the following is not a key functionality of Apache Hadoop
+2,3,16,What type of chart used to demonstrate time series?
+2,3,17,Which of the following is the use of bar chart in ranking message? 
+2,3,18,What type of chart used to show the comparison across the categories?
+2,3,19,Frequency distribution: A histogram shows the number of observations of a random variable for a given interval.
+2,3,20, A __ compares two variables to determine the extent to which they have moved in the same or opposite directions.
+2,4,21,Which of the following is the purpose of online analytical processing
+2,4,22,Which of the following is not belong to big data
+2,4,23,"Big data is lots of data, or fasting moving data, or data has already structed. "
+2,4,24,Which of the following area is not included in data mining process
+2,4,25, DBMS based on an approach to managing data using a(n) __ language __with first-order predicate logic
+2,4,26," Data mining is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems."
+2,4,27,Which type of learning presented with example inputs and their desired outputs and the goal is to learn a general rule that maps inputs to outputs
+2,4,28,"___ is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems."
+2,5,29,Which of the following refers to unsupervised learning?
+2,5,30,Reinforcement learning refers to a computer program interacts with a static environment in which it must perform a certain goal. 
+2,5,31,What is ANNs stands for 
+2,5,32,"In regression analysis, __"
+2,5,33,Bayesian networks is a ___ that represents a set of random variables and their conditional independence with a directed acyclic graph.
+2,5,34,___ is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph.
+2,5,35," A __is a flowchart-like structure in which each internal node represents a ""test"" on an attribute, each branch represents the outcome of the test, and each leaf node represents a target value. The paths from root to leaf represent classification rules."
+2,5,36," A decision tree is a flowchart-like structure in which each internal node represents a ""test"" on an attribute, each branch represents the __ of the test, and each leaf node represents__ . The paths from root to leaf represent __ rules."
+2,6,37,Naïve Bayes uses Bayes’ theorem to __
+2,6,38,___ is the act of attempting to segment the data into various groups without providing a target attribute. 
+2,6,39,Which of the following data mining technique is not supervised 
+2,6,40,Clustering is the act of attempting to segment the data into various groups ___ providing a target attribute. 
+2,6,41,Co-occurrence grouping attempts to find an __ between entities based on __ transactions. 
+2,6,42,The supervised method attempts to predict 
+2,6,43,In __  methods the algorithm searches for patterns and structure among all the variables
+2,6,44,"In linear regression, the value of a target variable is determined to be based on the sum of the values of one or more feature variables, each multiplied by a constant. "
+2,7,45,Tree induction is the process of generating a 
+2,7,46," Once a decision tree model has been induced, one can classify or predict the target value for a new instance by following a path through the induced decision tree."
+2,7,47,__ is a measure of the purity of a collection of data values
+2,7,48,"The__ entropy is, the__ IG is, the data is more pure. "
+2,7,49,"Information Gain (IG) measures how much entropy is increased by creating new subsets of some data. Thus,  the IG will ___ as entropy ___ for gaining more purity data. "
+2,7,50," ____ occurs when building models that closely explain a training data set, but fail to generalize when applied to other data sets."
+3,1,1,What is the final step of a quantitative risk analysis?
+3,1,2,Which one of the following is appropriate for multifactor authentication?
+3,1,3,You are completing your business continuity planning effort and have decided that you wish to accept one of the risks. What should you do next?
+3,1,4,"Which one of the following individuals is normally responsible for fulfilling the operational data protection responsibilities delegated by senior management, such as validating data integrity, testing backups, and managing security policies?"
+3,1,5,Which information security goal is impacted when an organization experiences a DoS or DDoS attack?
+3,1,6,"After conducting a qualitative risk assessment of your organization, you recommends purchasing cybersecurity breach insurance. What type of risk response behavior are you recommending?"
+3,1,7,Which one of the following also known as defense in depth.
+3,1,8,Which one of the following is used as a control for modifications to ensure that there is no reduction to security. 
+3,1,9,"Which process is used to ensure data is protected based on its need for secrecy, sensitivity, or confidentiality and value. "
+3,1,10,Which kind of risk analysis will assign subjective and arbitrary values to the loss of an asset?
+3,2,11,"Angela is an information security architect at a bank and has been assigned to ensure that transactions are secure as they traverse the network. She recommends that all transactions use TLS. What threat is she most likely attempting to stop, and what method is she using to protect against it?"
+3,2,12,What scenario describes data at rest?
+3,2,13,What is the primary purpose of data classification?
+3,2,14,AES is an example of
+3,2,15,Public key cryptography is so-named because:
+3,3,16,What concept describes the degree of confidence that an organization has that its controls satisfy security requirements?
+3,3,17,"What type of security vulnerability are developers most likely to introduce into code when they seek to facilitate their own access, for testing purposes, to software they developed?"
+3,3,18,What name is given to the random value added to a password in an attempt to defeat rainbow table attacks?
+3,3,19,"You would like to implement application control technology in your organization. Users often need to install new applications for research and testing purposes, and you don't want to interfere with that process. At the same time, you would like to block the use of known malicious software. What type of application control would be appropriate in this situation?"
+3,3,20,The purpose of UPS is:
+3,3,21,AES is an example of
+3,4,22,"What network tool can be used to protect the identity of clients while providing Internet access by accepting client requests, altering the source addresses of the requests, mapping requests to clients, and sending the modified requests out to their destination?"
+3,4,23,A remote access tool that copies what is displayed on a desktop PC to a remote computer is an example of what type of technology?
+3,4,24,Peter is receiving reports from end users that their internet connections are extremely slow. He looks at the firewall and determines that there are thousands of unexpected inbound connections per second arriving from all over the world. What type of attack is most likely occurring?
+3,4,25,You are designing a Wi-Fi network and has been asked to choose the most secure option for the network. Which wireless security standard that you will choose?
+3,5,26,Fingerprint is what type of authentication factor?
+3,5,27,What type of access controls allow the owner of a file to grant other users access to it using an access control list?
+3,5,28,"When an application or system allows a logged-in user to perform specific actions, it is an example of what?"
+3,5,29,Google’s identity integration with a variety of organizations and applications across domains is an example of which of the following?
+3,5,30,"When you input a user ID and password, you are performing what important identity and access management activity?"
+3,5,31,What authentication protocol does Windows use by default for Active Directory systems?
+3,5,32,The purpose of a background verification is to:
+3,5,33,CIA refers to:
+3,6,34,You want to use an automated tool to fill web application forms to test for format string vulnerabilities. What type of tool should you use?
+3,6,35,"You have been contracted to perform a penetration test of a bank’s primary branch. In order to make the test as real as possible, you haven’t been given any information about the bank other than its name and address. What type of penetration test that you agree to perform?"
+3,6,36,Which of the following vulnerabilities is unlikely to be found by a web vulnerability scanner?
+3,6,37,What is the first step that should occur before a penetration test is performed?
+3,6,38,What type of vulnerabilities most likely will not be found by a vulnerability scanner?
+3,6,39,The first U.S. law to define computer trespass is:
+3,7,40,"Lily is processing access control requests for her organization. She comes across a request where the user does have the required security clearance, but there is no business justification for the access. Lily denies this request. What security principle is she following?"
+3,7,41,An organization that runs the majority of its services on a virtualization platform located in its own data center but also leverages an IaaS provider for hosting its web services and a SaaS email system. What term best describes the type of cloud environment this organization uses?
+3,7,42,In which cloud computing model does a customer share computing infrastructure with other customers of the cloud vendor where one customer may not know the other’s identity?
+3,7,43,Which one of the following is an example of a manmade disaster?
+3,7,44,During what phase of the incident response process do administrators take action to limit the effect or scope of an incident?
+3,7,45,What type of trust relationship extends beyond the two domains participating in the trust to one or more of their subdomains?
+3,7,46,What documentation is typically prepared after a postmortem review of an incident has been completed?
+3,7,47,Staff from your company often travel internationally. You believes that they may be targeted for corporate espionage activities because of the technologies that your company is developing. What practice should you recommend that they adopt for connecting to networks while they travel?
+3,7,48,Management in an organization regularly reassigns employees to different functions. This practice is known as:
+3,8,49,Which one of the following testing methodologies typically works without access to source code?
+3,8,50,Which one of the following files is most likely a target to contain a macro virus?
+3,8,51,Which one of the following is not an effective control against SQL injection attacks?
+3,8,52,Rootkits can be difficult to discover because:
+4,1,1,Develop a __________ is the process of developing a document that formally authorizes the existence of a project and provides the project manager with authority to apply organizational resources to project activities.
+4,1,2,___________ describes how individual requirements meet the business need for the project.
+4,1,3,"There are multiple classification models used for stakeholder analysis such as Power/interest grid, Power/influence grid, Salience model, and ____________. "
+4,1,4,Identifying high-level risks and stakeholder lists both are elements of the _____________.
+4,1,5,"The key purpose of the _______________is to align the stakeholders’ expectations with the project’s purpose, give them visibility about the scope and objectives, show how their participation in the project and its associated phases can ensure that their expectations are achieved."
+4,1,6,A project _____________ is defined as the point in time that a project or project phase is authorized to its completion.
+4,2,7,"______________is the process that establishes the policies, procedures, and documentation for planning, managing, expending, and controlling project costs."
+4,2,8,"While all projects share the need to communicate project information, the information needs and methods of distribution may vary widely. In addition, the methods of storage, retrieval, and ultimate disposition of the project information need to be considered and appropriately documented during this process. Important considerations that may need to be taken into account include which of the following (select the answer that does NOT apply):"
+4,2,9,"______________involves setting a fixed total price for a defined product, service, or result to be provided."
+4,2,10," ______________is a component of the project management plan that describes how the roles and responsibilities, reporting relationships, and staff management will be addressed and structured."
+4,2,11,"______________reviews all requests for changes or modifications to project documents, deliverables, baselines, or the project management plan and approves or rejects the changes. The key benefit of this process is that it allows for documented changes within the project to be considered in an integrated fashion while reducing project risk, which often arises from changes made without consideration to the overall project objectives or plans."
+4,2,12,____________is a quality management planning tool that provides a process for creative problem-solving in moderately complex scenarios that possess intertwined logical relationship.
+4,2,13,____________is a technique that enhances brainstorming with a voting process used to rank the most useful ideas for further brainstorming or prioritization.
+4,2,14,"Project Risk Management includes the processes of____________, identification, analysis, response planning, and controlling risk on a project."
+4,2,15," Creating a ___________ (WBS) is the process of subdividing project deliverables and project work into smaller, more manageable components. The key benefit of this process is that it provides a structured vision of what has to be delivered."
+4,2,16,"The ____________for the project is the approved version of the project scope statement, work breakdown structure (WBS), and its associated WBS dictionary."
+4,2,17,"_____________identifies how the project will affect stakeholders, which then allows the project manager to develop various ways to engage stakeholders in the project effectively, to manage their expectations, and to ultimately achieve the project objectives."
+4,2,18,Plan schedule management tools are: Expert Judgment and ____________.
+4,3,19,"The ______________consists of those processes performed to complete the work defined in the project management plan to satisfy the project specifications. This Process Group involves coordinating people and resources, managing stakeholder expectations, as well as integrating and performing the activities of the project per the project management plan."
+4,3,20,"_____________is the process of identifying quality requirements and standards for the project and its deliverables, and documenting how the project will demonstrate compliance with relevant quality requirements."
+4,3,21," The _____________ (SOW) describes the procurement item in sufficient detail to allow prospective sellers to determine if they are capable of providing the products, services, or results."
+4,3,22,"For internal projects, the ______________provides the statement of work based on business needs, product, or service requirements."
+4,3,23,"For external projects, the statement of work can be received from the ______________as part of a bid document. "
+4,3,24,"The SOW references are business need, project scope description, and ____________"
+4,3,25,Program management focuses on the project interdependencies and helps to determine the optimal approach for managing them. Actions related to these interdependencies may include (select the answer that does NOT apply):
+4,3,26,_____refers to the centralized management of one or more portfolios to achieve strategic objectives.
+4,3,27,______________is often utilized as a means of directly or indirectly achieving objectives within an organization’s strategic plan.
+4,3,28,A project budget includes all the funds authorized to execute the project. ___________is the approved version of the time-phased project budget but excludes management reserves.
+4,3,29,"The total funds required are those included in the cost baseline, plus _____________if any. Funding requirements may consist of the source(s) of the funding."
+4,3,30,"The processes of calculating project budgets are ______________, estimate costs, determine the budget, and control costs"
+4,3,31,____________is the process of auditing the quality requirements and the results from quality control measurements to ensure that appropriate quality standards and operational definitions are used.
+4,3,32,"____________ is a cost estimating method may include analysis of what the project should cost, based on the responsive bids from qualified vendors."
+4,3,33,"Communicating with customers, vendors, other projects, organizations, and the public is an _____________communication activity."
+4,3,34," Some of the elements in the processes of ______________ are: PDCA (plan-do-check-act) cycle is the basis for quality improvement as defined by Shewhart and modified by Deming; also, quality improvement initiatives such as Total Quality Management (TQM), Six Sigma, and Lean Six Sigma could improve the quality of the project’s management as well as the quality of the project’s product; commonly used process improvement models include Malcolm Baldrige, Organizational Project Management Maturity Model (OPM3®), and Capability Maturity Model Integrated (CMMI.) "
+4,4,35,________________examines project performance over time to determine whether performance is improving or deteriorating.
+4,4,36,"_______________is a measure of the level of uncertainty or the level of impact at which a stakeholder may have a specific interest. Below that risk threshold, the organization will accept the risk. "
+4,4,37,"____________is the degree, amount, or volume of risk that an organization or individual will withstand."
+4,4,38,"The seven essential quality tools, also known in the industry as 7QC Tools, are used within the context of the PDCA Cycle to solve quality-related problems. Which of the following is not one of the 7QC Tools?"
+4,4,39,Risk identification checklists are developed based on _______________and knowledge that has been accumulated from previous similar projects and other sources of information.
+4,4,40,___________is the process of developing options and actions to enhance opportunities and to reduce threats to project objectives.
+4,4,41,"Three strategies, which typically deal with threats or risks that may have negative impacts on project objectives if they occur, are: avoid, _______________, and mitigate. The fourth strategy, accept, can be used for adverse risks or threats as well as positive risks or opportunities."
+4,4,42,The following responses are suggested to deal with risks with potentially positive impacts on project objectives (select the answer that does NOT apply). 
+4,4,43,"Managing stakeholder engagement may result in the development of an ____log. This log is updated as new issues are identified, and current issues are resolved."
+4,4,44,"The following activities that are applied during Control Procurement may include, but are not limited to (select all that does NOT apply):"
+4,4,45,"______________is prepared by the buyer. Such performance evaluations document the seller’s ability to continue to perform work on the current contract, indicate if the seller can be allowed to perform work on future projects or rate how well the seller is delivering the project work."
+4,4,46,A ___________is used by the project manager to manage contract and procurement documentation and records.
+4,5,47,A ____________is a structured review of the procurement process originating from the Plan Procurement Management process through Control Procurements.
+4,5,48,"______________consisting of formal documentation that indicates completion of the project or phase and the transfer of the completed project or phase deliverables to others, such as an operation group or to the next phase."
+4,5,49," The buyer, usually through its authorized procurement administrator, provides the seller with formal written notice that the contract has been completed. Requirements for formal procurement closure are typically defined in _______________and are included in the procurement management plan."
+4,5,50,"________________is what has been experienced, and process improvement recommendations, should be developed for the project file to improve future procurements."
